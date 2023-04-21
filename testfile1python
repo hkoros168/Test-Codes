@@ -1,5 +1,6 @@
-print("this is only a test OG")
+print("this is only a test OGs only")
 
-x = 1
+x = 2
+print(x)
 print(x)
 print(x)
