@@ -1,0 +1,4 @@
+print("this is only a test OG")
+
+x = 1
+print(x)
